@@ -213,6 +213,16 @@
                     BorderThickness="0"
                     PreviewMouseLeftButtonDown="AddNumber"/>
 
+            <Button Content="9"
+                    Grid.Column="2"
+                    FontFamily="Consolas"
+                    FontSize="12"
+                    Cursor="Hand"
+                    Focusable="False"
+                    Background="Transparent"
+                    BorderThickness="0"
+                    PreviewMouseLeftButtonDown="AddNumber"/>
+
             <Button Content="(.)"
                     Grid.Column="3"
                     FontFamily="Consolas"
